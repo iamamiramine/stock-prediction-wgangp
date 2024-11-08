@@ -1,4 +1,5 @@
 # Intrade: Predicting Stock Price using WGAN-GP
+## NOTE
 _this repository is maintained under https://gitlab.com/majimeniukiyo/intrade_predict_gan_
 _for any inquiry, please submit an issue on the provided [link](https://gitlab.com/majimeniukiyo/intrade_predict_gan.git)_
 
